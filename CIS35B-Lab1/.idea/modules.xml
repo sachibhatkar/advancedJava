@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CIS35B/CIS35B.iml" filepath="$PROJECT_DIR$/CIS35B/CIS35B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CIS35B-Lab1.iml" filepath="$PROJECT_DIR$/.idea/CIS35B-Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first/first.iml" filepath="$PROJECT_DIR$/first/first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javagit/javagit.iml" filepath="$PROJECT_DIR$/javagit/javagit.iml" />
+    </modules>
+  </component>
+</project>
